@@ -1,9 +1,7 @@
-package aula_04;
+package aula_05;
 
-import java.time.LocalDate;
-import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
-import java.time.LocalDateTime;
+import java.time.*; // Importa todas as classes de um pacote
+import java.time.format.*;
 
 public class Datas {
     public static void main(String[] args) {

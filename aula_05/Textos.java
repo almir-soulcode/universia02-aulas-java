@@ -1,4 +1,4 @@
-package aula_04;
+package aula_05;
 
 public class Textos {
     public static void main(String[] args) {
