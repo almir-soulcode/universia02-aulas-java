@@ -9,6 +9,7 @@ import aula_07.interno.Teste;
 
 public class Testes {
     public static void main(String[] args) {
+        Metodos.dizOla();
         Metodos.cumprimentar("João");
     }
 }
