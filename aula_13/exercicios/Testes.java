@@ -19,6 +19,5 @@ public class Testes {
         Moto moto = new Moto(2, "Gasolina", 20.0, 30000.0, 0.0, "Honda", "CBR", "Disco");
 
         moto.exibirInfo();
-
     }
 }
